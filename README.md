@@ -49,7 +49,7 @@ Just aced Week 2's data alchemy using the power of Excel Power Query! 🧙‍♂
 
 🔗 Dataset Link:
 
-    Dive into the mystical dataset here: Week 2 Dataset
+    Dive into the mystical dataset here: [Week 2 Dataset](https://preppindata.blogspot.com/2024/01/2024-week-2-average-price-analysis.html)
 
 📤 Output:
 
