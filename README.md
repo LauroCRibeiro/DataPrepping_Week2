@@ -3,7 +3,7 @@
 ![image](https://github.com/LauroCRibeiro/DataPrepping_Week2/assets/32388750/22eaaa01-c7ea-4484-9484-14ab92db46b7)
 
 
-🚀 Week 2 Challenge Accomplished! 📊
+🚀 Week 2 #PreppinData Challenge Accomplished! 📊
 
 Just aced Week 2's data alchemy using the power of Excel Power Query! 🧙‍♂️ Here's a glimpse into the journey:
 
@@ -52,7 +52,7 @@ Just aced Week 2's data alchemy using the power of Excel Power Query! 🧙‍♂
 
 🔗 Dataset Link:
 
-    Dive into the mystical dataset here: https://preppindata.blogspot.com/2024/01/2024-week-2-average-price-analysis.html 
+    https://preppindata.blogspot.com/2024/01/2024-week-2-average-price-analysis.html 
 
 📤 Output:
 
